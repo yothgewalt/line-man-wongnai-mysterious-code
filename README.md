@@ -35,5 +35,3 @@ func main() {
 	fmt.Println(whatIsIt)
 }
 ```
-
-# <b>MY FINAL ANSWER IS: "Join&#58;us&#58;at&#58;LINE:MAN&#58;Wongnai"</b>
